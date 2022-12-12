@@ -1,0 +1,139 @@
+[
+    {
+        "model": "menu_api.menu",
+        "pk":1,
+        "fields":{
+            "content": "monday1",
+            "restaurant": 1,
+            "day_of_week": "monday"
+        }
+    },
+    {
+        "model": "menu_api.menu",
+        "pk":2,
+        "fields":{
+            "content": "tuesday1",
+            "restaurant": 1,
+            "day_of_week": "tuesday"
+        }
+    },
+    {
+        "model": "menu_api.menu",
+        "pk":3,
+        "fields":{
+            "content": "wednesday1",
+            "restaurant": 1,
+            "day_of_week": "wednesday"
+        }
+    },
+    {
+        "model": "menu_api.menu",
+        "pk":4,
+        "fields":{
+            "content": "thursday1",
+            "restaurant": 1,
+            "day_of_week": "thursday"
+        }
+    },
+    {
+        "model": "menu_api.menu",
+        "pk":5,
+        "fields":{
+            "content": "friday1",
+            "restaurant": 1,
+            "day_of_week": "friday"
+        }
+    },
+
+    {
+        "model": "menu_api.menu",
+        "pk":6,
+        "fields":{
+            "content": "monday2",
+            "restaurant": 2,
+            "day_of_week": "monday"
+        }
+    },
+    {
+        "model": "menu_api.menu",
+        "pk":7,
+        "fields":{
+            "content": "tuesday2",
+            "restaurant": 2,
+            "day_of_week": "tuesday"
+        }
+    },
+    {
+        "model": "menu_api.menu",
+        "pk":8,
+        "fields":{
+            "content": "wednesday2",
+            "restaurant": 2,
+            "day_of_week": "wednesday"
+        }
+    },
+    {
+        "model": "menu_api.menu",
+        "pk":9,
+        "fields":{
+            "content": "thursday2",
+            "restaurant": 2,
+            "day_of_week": "thursday"
+        }
+    },
+    {
+        "model": "menu_api.menu",
+        "pk":10,
+        "fields":{
+            "content": "friday2",
+            "restaurant": 2,
+            "day_of_week": "friday"
+        }
+    },
+
+    {
+        "model": "menu_api.menu",
+        "pk":11,
+        "fields":{
+            "content": "monday3",
+            "restaurant": 3,
+            "day_of_week": "monday"
+        }
+    },
+    {
+        "model": "menu_api.menu",
+        "pk":12,
+        "fields":{
+            "content": "tuesday3",
+            "restaurant": 3,
+            "day_of_week": "tuesday"
+        }
+    },
+    {
+        "model": "menu_api.menu",
+        "pk":13,
+        "fields":{
+            "content": "wednesday3",
+            "restaurant": 3,
+            "day_of_week": "wednesday"
+        }
+    },
+    {
+        "model": "menu_api.menu",
+        "pk":14,
+        "fields":{
+            "content": "thursday3",
+            "restaurant": 3,
+            "day_of_week": "thursday"
+        }
+    },
+    {
+        "model": "menu_api.menu",
+        "pk":15,
+        "fields":{
+            "content": "friday3",
+            "restaurant": 3,
+            "day_of_week": "friday"
+        }
+    }
+] 

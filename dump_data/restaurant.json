@@ -1,0 +1,23 @@
+[
+    {
+        "model": "menu_api.restaurant",
+        "pk":1,
+        "fields":{
+            "name":"restaurant1"
+        }
+    },
+    {
+        "model": "menu_api.restaurant",
+        "pk":2,
+        "fields":{
+            "name":"restaurant2"
+        }
+    },
+    {
+        "model": "menu_api.restaurant",
+        "pk":3,
+        "fields":{
+            "name":"restaurant3"
+        }
+    }
+] 

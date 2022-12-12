@@ -1,0 +1,72 @@
+[
+    {
+        "model": "menu_api.employee",
+        "pk":1,
+        "fields":{
+            "full_name":"employee1"
+        }
+    },
+    {
+        "model": "menu_api.employee",
+        "pk":2,
+        "fields":{
+            "full_name":"employee2"
+        }
+    },
+    {
+        "model": "menu_api.employee",
+        "pk":3,
+        "fields":{
+            "full_name":"employee3"
+        }
+    },
+    {
+        "model": "menu_api.employee",
+        "pk":4,
+        "fields":{
+            "full_name":"employee4"
+        }
+    },
+    {
+        "model": "menu_api.employee",
+        "pk":5,
+        "fields":{
+            "full_name":"employee5"
+        }
+    },
+    {
+        "model": "menu_api.employee",
+        "pk":6,
+        "fields":{
+            "full_name":"employee6"
+        }
+    },
+    {
+        "model": "menu_api.employee",
+        "pk":7,
+        "fields":{
+            "full_name":"employee7"
+        }
+    },
+    {
+        "model": "menu_api.employee",
+        "pk":8,
+        "fields":{
+            "full_name":"employee8"
+        }
+    },
+    {
+        "model": "menu_api.employee",
+        "pk":9,
+        "fields":{
+            "full_name":"employee9"
+        }
+    },
+    {
+        "model": "menu_api.employee",
+        "pk":10,
+        "fields":{
+            "full_name":"employee10"
+        }
+    }
+] 
